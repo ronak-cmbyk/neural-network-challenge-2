@@ -8,4 +8,4 @@
 
 * The model was evaluated to determine accuracy and model loss.
 
-**The model was then used to make predictions from training data to determine performance of the model, with an accuracy of .50 for Department predictions, and an accuracy of .82 for Attrition predictions.
+* The model was then used to make predictions from training data to determine performance of the model, with an accuracy of .50 for Department predictions, and an accuracy of .82 for Attrition predictions.
